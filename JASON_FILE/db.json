@@ -1,0 +1,35 @@
+{
+  "storepromo": {
+    "image": "1234SOEK"
+  },
+  "plate": {
+    "number": "LET503"
+  },
+  "shirt": [
+    {
+      "brand": "mango",
+      "desc": "shirt",
+      "quantity": 91,
+      "price": 100,
+      "minor": 3
+    }
+  ],
+  "shoes": [
+    {
+      "brand": "prada",
+      "desc": "shoes",
+      "quantity": 34,
+      "price": 1000,
+      "minor": 2
+    }
+  ],
+  "bags": [
+    {
+      "brand": "hermes",
+      "desc": "bags",
+      "quantity": 23,
+      "price": 2000,
+      "minor": 4
+    }
+  ]
+}
